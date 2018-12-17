@@ -1,5 +1,7 @@
 import os
-path = "D:/Users/Jakob und Vio/Sciebo/Uni/Advent of Code"
+#Insert the path to your Advent of Code folder here
+#Put the input in the folder as input.txt
+path = ""
 os.chdir(path)
 
 used = set()
